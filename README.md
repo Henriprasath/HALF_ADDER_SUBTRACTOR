@@ -80,4 +80,4 @@ endmodule
 
 **Result:**
 
-Thus the given output is verified.
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified.
